@@ -21,7 +21,7 @@ body {
 
 
 .navbar__s1__title {
-    color: rgb(113, 175, 200);
+    color: rgb(21, 116, 154);
 }
 
 .navbar__s2 {
@@ -64,12 +64,12 @@ body {
 }
 
 .categories p {
-    background-color: rgb(71, 185, 233);
+    background-color: rgb(111, 197, 234);
     color: black;
     padding: 20px;
     border-radius: 30px;
     cursor: pointer;
-    border:solid rgb(71, 185, 233)2px;
+    border:solid rgb(111, 197, 234)2px;
 }
 
 .categories p:hover {
@@ -90,12 +90,12 @@ body {
 }
 
 .sale-image__offer {
-    width: 35%;
+    width: 15%;
     border: solid black 2px;
     background-color: rgb(153, 228, 231);
-    padding: 2%;
+    padding:10px;
     position: absolute;
-    top: 10%;
+    top: 3%;
     left: 10%;
     animation-name: zoom;
     animation-duration: 2s;
