@@ -209,22 +209,24 @@ margin: 15px;
     display: flex;
     justify-content: space-between;
 }
-/*meadia screem*/
-@media screen and (max-width:800px){
+/*media screen*/
+@media screen and (max-width:600px){
     body{
         font-size: 12px;
     }
 }
-@media screen and (max-width:800px){
+@media screen and (max-width:600px){
     .course-card{
         flex-basis: 40%;
     }
     .categories p{
         display: none;
     }
-    .navbar__s4{
-    display: block;
-}
+    
+        .navbar__s4{
+    display : block;}
+
     }
-    
-    
+
+   
+
